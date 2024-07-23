@@ -1,1 +1,1 @@
-In this repositary, I had presented the excel and how I used it for various analysis project. Which also includes virtual internship project and my basic excel analysis
+In this repository, I have included three Excel file and demonstrated how I used it for various analysis projects. This includes a virtual internship project, as well as analyses of food sales and chair sales.
